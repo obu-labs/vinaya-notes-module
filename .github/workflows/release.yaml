@@ -7,6 +7,9 @@ on:
 jobs:
   Build:
     runs-on: ubuntu-latest
+    # When you're ready to start creating releases,
+    # set this "if" to "true"
+    if: false
     steps:
       - uses: actions/checkout@v4
         with:

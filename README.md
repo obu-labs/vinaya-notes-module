@@ -5,10 +5,12 @@
 ## Steps
 
 1. Fork this repo
-2. Fill in the metadata.yaml file with your folder's information
-3. Update this README.md with your own introduction
+2. Fill in the `metadata.yaml` file with your folder's information
+3. Update this `README.md` with your own introduction
 4. Copy over your notes
-5. Commit and push
+5. When you're ready, set the "if" in `.github/workflows/release.yaml` to "true"
+6. Commit and push
+7. You'll see a new release created with your notes and a `.vnm` file
 
 ## How it works
 
