@@ -4,7 +4,7 @@
 
 ## Steps
 
-1. Fork this repo
+1. Fork this repo ([more info](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template))
 2. Fill in the `metadata.yaml` file with your folder's information
 3. Update this `README.md` with your own introduction to your module. Be sure to include any relevant copyright information!
 4. Copy your notes over to this repo (treat the repo root directory as your module's root directory, i.e. this repo could live inside a vault)
